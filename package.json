@@ -1,0 +1,15 @@
+{
+  "name": "async-middleware-wrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "async"
+  ],
+  "author": "huhao <415328529@qq.com>",
+  "license": "MIT"
+}
